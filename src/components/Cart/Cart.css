@@ -1,0 +1,28 @@
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
+.cart-remove-btn{
+   
+    width: 420px;
+    padding: 16px;
+    color:white;
+} 
+.btn-all-clear{
+    display: flex; 
+    width: 100%;
+    border: 0;
+    background-color: #FF3030;
+    border-radius:5px;
+    color: rgb(255, 255, 255);
+    justify-content: space-between;
+    align-items: center;
+} 
+.btn-all-clear p{
+    font-size: 15px;
+
+}     
+.Delete-all-icon{
+    font-size: 25px;
+}                                     
